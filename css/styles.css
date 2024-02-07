@@ -24,26 +24,8 @@ body {
 /* Zet hieronder de codes om de puzzelstukjes op de juiste plek te zetten */
 
 .stukje_01 {
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 1;
-    grid-row-end: 2;
-}
-.stukje_02 {
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 1;
-    grid-row-end: 2;
-}
-.stukje_03 {
-    grid-column-start: 1;
-    grid-column-end: 2;
-    grid-row-start: 2;
-    grid-row-end: 3;
-}
-.stukje_04 {
-    grid-column-start: 2;
-    grid-column-end: 3;
-    grid-row-start: 2;
-    grid-row-end: 3;
+    grid-column-start: /* jouw waarde */;
+    grid-column-end: /* jouw waarde */;
+    grid-row-start: /* jouw waarde */;
+    grid-row-end: /* jouw waarde */;
 }
